@@ -54,10 +54,17 @@
                   </div>
             </div>
       </div>
+
       <footer class="text-center mt-5 py-2">
         
          <p>&copy 2021. Made by <b>TANIYA CHAKRABORTY</b></p>
       </footer>
+       <br>
+
+  <div class="pager" style="text-align: center;">
+        <a class="link" href="first.php">
+        <p><button class="button2">Home Page</button></p></a>
+    </div>
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
   </body>
